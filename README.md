@@ -1,6 +1,6 @@
 # springboot2.x 整合 mongodb demo
 
->>项目默认为单数据源运行
+>>项目默认为单数据源运行，并且mongodb server开启了权限认证
 
 ## 单数据源
 1. 配置文件 application.properties （9-17行）
